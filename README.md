@@ -11,7 +11,7 @@ Replaces a manual daily reporting workflow that previously required cross-refere
 
 ## Business Impact
 
-Built for a warehouse operation processing 200+ daily orders across multiple regions and a team of 6 staff. Replaced a fully manual reporting process that required a manager to log into ShipExec, manually cross-reference two separate report tables, and build Excel summaries by hand each day.
+Built for a warehouse operation processing 200+ daily orders across multiple regions and a team of 7 staff. Replaced a fully manual reporting process that required a manager to log into ShipExec, manually cross-reference two separate report tables, and build Excel summaries by hand each day.
 
 What this tool eliminated:
 

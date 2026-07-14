@@ -7,7 +7,7 @@ Automated warehouse shipping report generator for [ShipExec](https://thinclient.
 
 ## Impact
 
-Replaces a manual daily reporting workflow that previously required cross-referencing two ShipExec tables and hand-building Excel summaries. Measured against that manual process, it saves roughly 20 labor-hours per week. This is a proof of concept I built and have run daily against real ShipExec data over the past year. It is not a sanctioned production deployment.
+Replaces a manual daily reporting workflow that previously required cross-referencing two ShipExec tables and hand-building Excel summaries. Measured against that manual process, it saves roughly 20 labor-hours per week. This is a proof of concept I built and validated against real ShipExec data. It is not a sanctioned production deployment.
 
 ## Business Impact
 

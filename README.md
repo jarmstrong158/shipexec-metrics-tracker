@@ -7,7 +7,7 @@ Automated warehouse shipping report generator for [ShipExec](https://thinclient.
 
 ## Impact
 
-Saves roughly 25 labor hours per week across the warehouse team by replacing a manual daily reporting workflow that previously required cross-referencing two ShipExec tables and hand-building Excel summaries. The tool has been in continuous daily production use for over a year and adopted by other warehouse managers at the company beyond the original pilot region.
+Replaces a manual daily reporting workflow that previously required cross-referencing two ShipExec tables and hand-building Excel summaries. Measured against that manual process, it saves roughly 20 labor-hours per week. This is a proof of concept I built and have run daily against real ShipExec data over the past year. It is not a sanctioned production deployment.
 
 ## Business Impact
 
@@ -19,7 +19,7 @@ What this tool eliminated:
 - Hand-calculation of per-staff picked/packed counts and boxcounts across 4 regional teams
 - The weekend/Monday reporting gap — a ShipExec limitation that previously caused 3 days of shipment data to collapse into a single undifferentiated report
 
-**Result:** Saves 4 staff members 1–1.5 hours of manual reporting work per day. At current compensation levels, that recovers approximately 1,300 labor hours and $35,000–$60,000 in annual labor value — from a tool with zero licensing cost.
+**Result (projected):** Measured time savings project to roughly $17K/yr per location in reporting labor, a calculation from time-per-run at a 200+ order/day volume, from a tool with zero licensing cost. This is a projection from a proof of concept, not a figure from a sanctioned rollout.
 
 **Stack:** Python, Selenium, BeautifulSoup, pandas — no RPA platform license required.
 
